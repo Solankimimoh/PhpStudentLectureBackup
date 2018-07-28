@@ -1,0 +1,135 @@
+body,html
+{
+	background-color: #4a4a4a;
+	height: 100%;
+	width: 100%;
+	margin: auto;
+}
+
+
+
+
+.background
+{
+	background-color: gold;
+	height: 85%;
+	width: 95%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	position: absolute;
+	margin: auto;
+
+	
+}
+.back
+{
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	position: absolute;
+	margin: auto;
+	font-style: bold;
+	margin-right: 0px;
+
+	height: 100%;
+	width: 50%;
+	background-color: gold;
+}
+h1
+{
+	margin-right: 30px;
+	margin-top: 45px;
+	text-align: center;
+	font-size: 20px;
+    font-style: bold;
+	margin-left: 15px;
+	letter-spacing: 2px;
+}
+h2
+{
+	margin-right: 30px;
+margin-left: 70px;
+margin-top: 40px;
+}
+
+.abc
+{
+	background-color:#1e90ff ;
+	height: 85%;
+	width: 95%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	position: absolute;
+	margin: auto;
+    margin-top: 770px;
+
+}
+.ab
+{  left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	margin: auto;
+	position: absolute;
+	height: 100%;
+	width: 50%;
+	margin-left: 0px;
+	background-color: #1e90ff;
+}
+
+.abc h2
+{
+    left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	position: absolute;
+	margin: auto;
+	margin-left: 900px;	
+	margin-top: 40px;
+
+}
+
+.xyz
+{
+	background-color: aqua;
+	height: 85%;
+	width: 95%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	position: absolute;
+	margin: auto;
+	margin-top: 1490px;
+}
+
+.xy
+{
+left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	margin: auto;
+	position: absolute;
+	height: 100%;
+	width: 50%;
+	margin-left: 730px;
+	background-color: aqua;	
+}
+.xyz h2
+{
+	
+	position: absolute;
+	margin: auto;
+	margin-top: 40px;
+}
+
+
+
+
