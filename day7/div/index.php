@@ -12,33 +12,41 @@
 </head>
 
 <body>
-   
-   <table align="center">
-       <tr>
-           <td><a href="">HOME</a></td>
-           <td><a href="#aboutData">About</a></td>
-       </tr>
-   </table>
-   
+
+    <table align="center">
+        <tr>
+            <td><a href="">HOME</a></td>
+            <td><a href="#aboutData">About</a></td>
+        </tr>
+    </table>
+
     <!--start home section-->
     <div class="home">
         <div class="homeContectChild">
             <div class="info">
-                
+
                 <h1 class="title">Web Designer</h1>
                 <div class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit quia harum cupiditate aliquam, placeat commodi expedita consequuntur ullam similique! Provident maxime, vitae aperiam, magnam incidunt laboriosam consequatur. Molestiae, dignissimos, consequuntur!Repudiandae voluptas, libero eaque consequatur quas nisi beatae possimus id, laborum sequi maiores minus nobis quis laudantium repellat iste perspiciatis amet et, doloremque, quaerat suscipit! At repellendus excepturi omnis est.</div>
             </div>
             <div class="homeImg">
-                
-                <img src="images/home.png" width="700px"/>
-                
+
+                <img src="images/home.png" width="700px" />
+
             </div>
         </div>
     </div>
     <!--    end home section-->
 
     <div class="about" id="aboutData">
-        <h1>HELLO</h1>
+        <div class="aboutContainer">
+            <h1>aboutContainer</h1>
+            <div class="leftChild">
+                <h1>leftChild</h1>
+            </div>
+            <div class="rightChild">
+                <h1>rightChild</h1>
+            </div>
+        </div>
     </div>
 
 </body>

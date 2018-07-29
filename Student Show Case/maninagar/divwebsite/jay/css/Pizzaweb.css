@@ -1,0 +1,221 @@
+body,html{
+height: 100%;
+    width: 100%;
+    background: red;
+    margin: 0;
+}
+.Home {
+    height: 100%;
+    width: 100%;
+    background: black;}
+
+.homeContainer {
+    height: 80%;
+    width: 80%;
+    background: purple;
+    left: 0;
+    right: 0;
+    top: 0;
+    
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    
+}
+
+.homeInfo{
+        width: 50%;
+    height: 100%;
+    background: black;
+    float: right;
+} 
+.homeImg {
+     width: 50%;
+    height: 100%;
+    background: black;
+    float: left;
+    
+}
+
+.about {
+    height: 100%;
+    width: 100%;
+    background: black;
+}
+
+.aboutContainer {
+    height: 80%;
+    width: 80%;
+background: blue;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.aboutImg {
+     width: 50%;
+    height: 100%;
+    background: black;
+    float: right;
+}
+
+.aboutInfo {
+            width: 50%;
+    height: 100%;
+    background: black;
+    float: left;
+    
+}
+
+.contact {height: 100%;
+    width: 100%;
+    background: black;
+    
+}
+
+.contactContainer {
+        height: 80%;
+    width: 80%;
+background: black;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.contactImg {
+    width: 50%;
+    height: 100%;
+    background: black;
+    float: left;
+}
+
+.contactInfo {
+      width: 50%;
+    height: 100%;
+    background: black;
+    float: right;
+    
+}
+
+.more {height: 100%;
+    width: 100%;
+    background: black;}
+    
+    width: 100%;
+    background: black;
+}
+
+
+    
+}
+
+.moreContainer {
+      height: 80%;
+    width: 80%;
+background: blue;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.moreImg {
+    width: 50%;
+    height: 100%;
+    background: yellow;
+    float: left;
+}
+
+.moreInfo {
+     width: 50%;
+    height: 100%;
+    background: white;
+    float: right;
+}
+
+.coke {
+     height: 100%;
+    width: 100%;
+    background: black;
+}
+
+.cokeContainer {
+      height: 80%;
+    width: 80%;
+background: blue;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.cokeImg {
+      width: 50%;
+    height: 100%;
+    background: black;
+    float: right;
+}
+
+.cokeInfo {
+       width: 50%;
+    height: 100%;
+    background: black;
+    float: left;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: white;
+
+}
+
+p {
+    font-family: serif;
+    color: white;
+}
+
+.Head {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    position:absolute;
+}
+
+.head {
+    height: 10%;
+    width: 100%;
+    background: white;
+    top: 0;
+    bottom:0;
+    right: 0;
+    left: 0;
+    position: absolute;
+}
+
+.headContainer {
+     height: 80%;
+    width: 80%;
+    background: purple;
+    position: absolute;
+    margin: auto;
+}
+
+.headImg {
+    width: 50%;
+    height: 100%;
+    background: white;
+    float: left;
+}
+
+.headInfo { width: 50%;
+    height: 100%;
+    background: white;
+    float: right;
+    
+}

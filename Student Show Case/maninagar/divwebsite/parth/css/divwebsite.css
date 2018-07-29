@@ -1,0 +1,191 @@
+body,html{
+    height:100%;
+    width: 100%;
+    margin: 0;
+    
+}
+.home {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+    background-color: darkcyan;
+}
+
+.about {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    
+    background-color: darkgray;
+    padding: 0;
+    
+}
+
+.homeImg {
+    height: 25%;
+    width: 100%;
+    
+    
+}
+
+
+
+
+
+.homeInfo {        
+}
+
+h3 {
+    font-family: monospace;
+    color: orange;
+    font-size: 45px;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+
+
+.h2 {
+    font-family:monospace;
+    color: orange;
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+
+}
+
+h2 {
+    font-family: monospace;
+    color: orange;
+    font-size: 45px;
+    margin: 0;
+    padding: 0;
+
+}
+
+.video {
+    height:100%;
+    width: 100%;
+    
+    
+}
+
+.bottom {
+    height: 50%;
+    width: 50%;
+    background-color: red;
+    left:0;
+    bottom: 0;
+    
+    position:absolute;
+    
+}
+
+
+
+
+
+.details {
+    height: 350px;
+    width: 1348px;
+    background: black;
+    margin: 0;
+    font-family: cursive;
+    color: aqua;
+    font-size: 50px;
+}
+
+
+
+.about1 {
+    height: 50%;
+    width: 100%;
+    margin: 0;
+    
+    background: orange;
+    
+}
+
+.about2 {
+    height: 50%;
+    width: 100%;
+    background: black;
+    right: 0;
+    top: 0;
+    position:relative;
+    float: inherit;
+    color: white;
+    margin:0;
+    padding: 0;
+    
+    
+    
+}
+
+.h1  {
+    height: 25%;
+    width: 100%;
+    font-family: serif;
+    color:black;
+    margin: 0;
+    padding: 0;
+    
+    font-size: 75px;
+}
+
+
+.about3 {
+    height: 50%;
+    width: 50%;
+    background-color: chartreuse;
+    right: 0;
+    top: 10;
+    position:absolute;
+    color: white;
+    margin:0;
+    padding: 0;
+    
+    
+    
+    
+    
+}
+
+.atag {
+    font-family: monospace;
+    background-color: cadetblue;
+    color: black;
+    font-size: 25px;
+}
+
+.text2 {
+    font-family: monospace;
+    color: darkgreen;
+    padding: 0;
+    margin: 0;
+    font-size: 50px;
+
+}
+
+
+.footer {
+    font-family: sans-serif;
+    color: aqua;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.abc {
+    padding: 1;
+    margin: 1;
+    font-family: monospace;
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+    
+}
