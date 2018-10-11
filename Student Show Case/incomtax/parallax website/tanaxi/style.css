@@ -1,0 +1,233 @@
+body,html
+{
+    height: 100%;
+    width: 100%;
+    
+    margin: 0;
+}
+.a
+{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    position: relative;
+    
+}
+.b
+{
+    height: 100%;
+    width: 100%;
+    background-color: #900c3f;
+    position: relative;
+}
+.c
+{
+    height: 100%;
+    width: 100%;
+    background-color: navy;
+    position: relative;
+}
+.d
+{
+    height: 100%;
+    width: 100%;
+    background-color: brown;
+    position: relative;
+}
+.e
+{
+    height: 100%;
+    width: 100%;
+    background-color: #0c0a3e;
+    position: relative;
+}
+.f
+{
+    height: 100%;
+    width: 100%;
+    background-color:darkgray;
+    position: relative;
+}
+.aa
+{
+     position: absolute;
+    
+    width: 80%;
+    height: 80%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    margin: auto;
+}
+.aaa
+{
+    height: 100%;
+    width: 50%;
+    
+    position: absolute;
+}
+.aab
+{
+ height: 100%;
+    width: 50%;
+
+    float: right;
+       
+}
+h3
+{
+    
+    color: white;
+}
+.bb
+{
+     position: absolute;
+    
+    width: 80%;
+    height: 80%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    margin: auto;
+}
+.bbb
+{
+    height: 100%;
+    width: 50%;
+    
+    position: absolute;
+}
+.bba
+{
+ height: 100%;
+    width: 50%;
+
+    float: right;
+       
+}
+.h3css
+{
+    color: white;
+}
+.cc
+{
+     position: absolute;
+    
+    width: 80%;
+    height: 80%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    margin: auto;
+}
+.cca
+{
+    height: 100%;
+    width: 50%;
+    position: absolute;
+}
+.ccb
+{
+ height: 100%;
+    width: 50%;
+
+    float: right;
+
+}     
+.h3a
+{
+    color: white;
+}
+.dd
+{
+     position: absolute;
+    
+    width: 80%;
+    height: 80%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    margin: auto;
+}
+.dda
+{
+    height: 100%;
+    width: 50%;
+    position: absolute;
+}
+.ddb
+{
+ height: 100%;
+    width: 50%;
+
+    float: right;
+
+}     
+h2
+{
+    color: ghostwhite;
+}
+.ee
+{
+     position: absolute;
+    
+    width: 80%;
+    height: 80%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    margin: auto;
+}
+.eea
+{
+    height: 100%;
+    width: 50%;
+    position: absolute;
+}
+.eeb
+{
+ height: 100%;
+    width: 50%;
+
+    float: right;
+
+}     
+.h5
+{
+    color: white;
+}
+.ff
+{
+     position: absolute;
+    
+    width: 80%;
+    height: 80%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    margin: auto;
+}
+.ffa
+{
+    height: 100%;
+    width: 50%;
+    position: absolute;
+}
+.ffb
+{
+ height: 100%;
+    width: 50%;
+
+    float: right;
+
+}     
+.fh1
+{
+    color: darkblue;
+}

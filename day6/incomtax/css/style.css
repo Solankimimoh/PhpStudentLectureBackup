@@ -1,0 +1,100 @@
+body,
+html {
+    height: 100%;
+    width: 100%;
+    background: #969bf7;
+    margin: 0;
+}
+
+.main {
+    width: 200px;
+    height: 200px;
+    background: #f7ef96;
+
+}
+
+.child {
+    width: 500px;
+    height: 500px;
+    background: #320e6c;
+}
+
+.leftTop {
+    width: 200px;
+    height: 200px;
+    background: #c7f593;
+    position: absolute;
+
+}
+
+.rightTop {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background: #f5c993;
+    right: 0;
+}
+
+.leftBottom {
+    background: #d9c2a9;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 0;
+}
+
+.rightBottom {
+    background: #f673c4;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.center {
+    position: absolute;
+    background: #96f673;
+    width: 200px;
+    height: 200px;
+
+}
+
+.red {
+    background: red;
+    width: 200px;
+    height: 200px;
+    float: left;
+position: relative;
+}
+
+.blue {
+    background: blue;
+    width: 200px;
+    height: 200px;
+    float: left;
+position: relative;
+    bottom: 20px;
+    right: 20px;
+}
+
+.green {
+    background: green;
+    width: 200px;
+    height: 200px;
+    float: left;
+position: relative;
+}
+
+.pad {
+padding: 40px;    
+}
+
+h1 {
+    background: #80f556;
+    font-size: 40px;
+}
+
+.marg {
+    margin: 40px;
+}

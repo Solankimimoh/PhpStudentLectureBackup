@@ -1,0 +1,43 @@
+body,
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.home {
+    height: 100%;
+    width: 100%;
+    background-image: url(https://images.pexels.com/photos/6224/hands-people-woman-working.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-clip: content-box;
+    background-attachment: fixed border: 19px yellow dotted;
+    background-attachment: fixed;
+}
+
+.about
+{
+    
+    height: 100%;
+    width: 100%;
+    
+    background: red;
+/*
+    background-image: url(https://images.pexels.com/photos/6444/pencil-typography-black-design.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-clip: content-box;
+    background-size: contain;
+    background-attachment: fixed border: 19px yellow dotted;
+*/
+}
+
+.gallery
+{
+    
+    height: 100%;
+    width: 100%;
+    background-image: url(https://images.pexels.com/photos/6444/pencil-typography-black-design.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-clip: content-box;
+    background-size: contain;
+        background-attachment: fixed;
+
+    background-attachment: fixed border: 19px yellow dotted;
+}

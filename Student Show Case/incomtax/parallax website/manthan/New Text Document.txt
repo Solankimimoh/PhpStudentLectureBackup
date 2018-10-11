@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>day8</title>
+</head>
+<body class="body">
+	<div class="firstpage"></div>
+
+</body>
+</html>

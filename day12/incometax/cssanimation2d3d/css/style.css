@@ -1,0 +1,120 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.main {
+    width: 400px;
+    /*    background-color: bisque;*/
+    margin: auto;
+    padding: 15px;
+}
+
+.main p {
+    line-height: 20px;
+}
+
+.myt {
+    width: 400px;
+    height: 400px;
+    background-image: url(http://em120.bitballoon.com/images/1.jpg);
+    background-position: center center;
+    border-radius: 50%;
+    transform: rotate(90deg);
+    transform-origin: center center;
+}
+
+.social {
+    width: 400px;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+}
+
+.social_list {
+    padding: 0;
+}
+
+.social .social_list .social_item {
+    display: inline-block;
+}
+
+.social .social_list .social_item a {
+    text-decoration: none;
+    padding: 10px;
+    background-color: beige;
+    border-radius: 2px;
+    font-size: 1.2em;
+}
+
+.facebook {
+    color: #3B5998;
+}
+
+.facebook:hover {
+    background-color: #3B5998 !important;
+    color: #fff;
+}
+
+.youtube {
+    color: #FF0000;
+}
+
+.youtube:hover {
+    background-color: #FF0000 !important;
+    color: #fff;
+}
+
+.twitter {
+    color: #55acee;
+}
+
+.twitter:hover {
+    background-color: #55acee !important;
+    color: #fff;
+}
+
+.instagram {
+    color: #9b6954;
+}
+
+.instagram:hover {
+    background-color: #9b6954 !important;
+    color: #fff;
+}
+
+
+.front
+{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    position: absolute;
+    z-index: 2;
+}
+.back
+{
+    z-index: 1;
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    background-color: blue;
+}
+
+
+/*
+.red
+{
+    background: cyan;
+    color: red;
+}
+.mysize
+{
+    font-size: 3em;
+    text-decoration: underline;
+}
+*/
